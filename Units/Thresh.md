@@ -8,15 +8,17 @@ tags:
   - AP
 ---
 ## Item
+
 - [item::[[Hand of Justice]]]
 - [item::[[Bloodthirster]]]
 - [item::[[Void Staff]]]
- - [item::[[Morellonomicon | Morello]]]
+- [item::[[Morellonomicon | Morello]]]
 
 
 ## Artifacts
 
 ## Related Comps
+
 ```dataviewjs
 dv.view("Templates/Views/list_related_comps")
 ```

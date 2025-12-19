@@ -2,7 +2,8 @@
 traits:
   - Yordle
   - Arcanist
-unlock: 2 Rabadon on a units
+unlock: 2 rabadons on a units
+cost: 4
 tags:
   - AP
 ---

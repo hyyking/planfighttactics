@@ -2,7 +2,6 @@
 tags:
   - "#reroll6"
   - "#AP"
-  - "#LooseStreak"
 planner-code: 0202c02b34b01834334201a014000000TFTSet16
 ---
 ## Comp

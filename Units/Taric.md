@@ -6,10 +6,10 @@ cost: 4
 tags:
   - Tank
 ---
-## Item
- 
- 
 
+## Item
+
+- [item :: [[Tank Items]]]
 
 ## Artifacts
 
