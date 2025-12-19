@@ -1,19 +1,15 @@
 ---
 traits:
-  - Piltover
-  - Zaun
-  - Defender
+  - Quickstricker
 unlock:
-cost: 2
+cost: 5
 tags:
   - AD
-  - Tank
 ---
-Bonne unité pour items AD si pas de meilleur porteur
 ## Item
- 
- 
-
+- [item :: [[Guinsoo]]] 
+- [item :: [[Kraken Slayer | Kraken]]] 
+- [item :: [[Giant Slayer | GS]]]
 
 ## Artifacts
 

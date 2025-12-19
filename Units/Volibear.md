@@ -1,11 +1,15 @@
 ---
 traits:
+  - Freljord
   - Bruiser
-  - Yordle
-  - Invoker
-unlock: 6 star levels of bruiser, invoker or yordle
+unlock: Over 3800 HP on a unit
+cost: 5
+tags:
+  - AD
 ---
- 
+## Item
+- [item::[[Bloodthirster]]]
+- 
  
 
 

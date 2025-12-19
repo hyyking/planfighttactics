@@ -6,15 +6,15 @@ tags:
   - AP
 ---
 ## Item
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
+ 
+ 
+
 
 ## Artifacts
 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
+ 
+ 
+
 
 ## Related Comps
 ```dataviewjs

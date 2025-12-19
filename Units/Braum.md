@@ -1,13 +1,15 @@
 ---
 traits:
-  - Bruiser
-  - Yordle
-  - Invoker
-unlock: 6 star levels of bruiser, invoker or yordle
+  - Freljord
+  - Warden
+unlock:
+cost: 4
+tags:
+  - Tank
 ---
+## Item
  
- 
-
+ - [item::[[Main Tank Items]]]
 
 ## Artifacts
 

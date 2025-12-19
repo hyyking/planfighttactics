@@ -1,0 +1,6 @@
+- [item::[[Warmogs]]]
+- [item::[[Gargoyle]]]
+- [item::[[Spirit Visage]]]
+- [item::[[Sunfire]]]
+- [item::[[Bramble Vest]]]
+- [item::[[Dragon's Claw]]]

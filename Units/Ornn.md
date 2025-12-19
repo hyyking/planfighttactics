@@ -1,12 +1,12 @@
 ---
 traits:
-  - Bruiser
-  - Yordle
-  - Invoker
-unlock: 6 star levels of bruiser, invoker or yordle
+  - Warden
+unlock:
+cost: 5
+tags:
+  - Tank
 ---
- 
- 
+## Item
 
 
 ## Artifacts

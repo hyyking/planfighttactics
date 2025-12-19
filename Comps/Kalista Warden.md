@@ -5,6 +5,11 @@ tags:
 planner-code: 0200f01d02034034c01e35b357021000TFTSet16
 ---
 ## Comp
+[carry::[[Kalista]]]
+[[Braum]]
+[[Loris]]
+[[Ornn]]
+
 
 ## Tips
 

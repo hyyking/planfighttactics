@@ -8,9 +8,9 @@ tags:
   - AP
 ---
 ## Item
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
+ 
+ 
+
 
 ## Artifacts
 

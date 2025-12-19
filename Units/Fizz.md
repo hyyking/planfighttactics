@@ -9,9 +9,9 @@ tags:
 ---
 
 ## Item
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
+ 
+ 
+
 
 ## Artifacts
 

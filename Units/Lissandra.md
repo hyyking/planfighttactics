@@ -8,9 +8,9 @@ tags:
   - AP
 ---
 ## Item
-- [item :: [[Managen]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
+- [item :: [[Managen Items]]] 
+ 
+
 
 ## Artifacts
 
