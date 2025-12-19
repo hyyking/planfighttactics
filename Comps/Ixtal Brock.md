@@ -1,10 +1,6 @@
 ---
 tags:
-  - fast8
-  - AD
-  - AP
-traits:
-unlock:
+  - "#fast8"
 ---
 ## Comp
 

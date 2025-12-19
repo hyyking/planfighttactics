@@ -3,6 +3,8 @@ traits:
   - Piltover
   - Gunslinger
 unlock: 12 stars of piltover units
+tags:
+  - AD
 ---
 - [item :: [[Infinity Edge | IE]]] 
 - [item :: [[QSS]]]

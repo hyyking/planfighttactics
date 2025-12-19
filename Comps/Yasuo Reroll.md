@@ -1,10 +1,7 @@
 ---
 tags:
-  - fast8
-  - AD
-  - AP
-traits:
-unlock:
+  - "#reroll6"
+  - "#AD"
 ---
 ## Comp
 

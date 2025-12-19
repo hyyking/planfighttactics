@@ -1,10 +1,10 @@
 ---
 traits:
+  - Juggernaut
 unlock:
-cost:
 tags:
+  - AD
 ---
-## Item
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]]

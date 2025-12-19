@@ -1,10 +1,12 @@
 ---
 traits:
+  - Yordle
+  - Defender
 unlock:
-cost:
 tags:
+  - Tank
+cost: 1
 ---
-## Item
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]]

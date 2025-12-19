@@ -8,6 +8,7 @@
     "traits": "multitext",
     "items": "multitext",
     "patch": "multitext",
-    "unlock": "text"
+    "unlock": "text",
+    "cost": "number"
   }
 }

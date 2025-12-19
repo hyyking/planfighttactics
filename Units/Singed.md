@@ -2,7 +2,9 @@
 traits:
   - Zaun
   - Juggernaut
-unlock:
+unlock: 3 Zaun units and <65hp and level7
+tags:
+  - AP
 ---
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]] 

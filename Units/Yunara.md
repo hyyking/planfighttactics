@@ -1,17 +1,17 @@
 ---
 traits:
-  - Noxus
   - Quickstricker
+  - Ionia
 unlock:
-cost: 3
 tags:
-  - AP
+  - AD
 ---
-## Item
 - [item :: [[Guinsoo]]] 
 - [item :: [[Kraken Slayer | Kraken]]] 
 - [item :: [[Giant Slayer | GS]]]
 
-
 ## Artifacts
+
+
+[artifact::[[Flickerblade]]]
 

@@ -11,21 +11,28 @@
       "query": "path:Games  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13463664
       }
     },
     {
       "query": "path:Comps  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11481393
       }
     },
     {
-      "query": "tag:*",
+      "query": "path:Units  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5401056
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -36,9 +43,9 @@
   "lineSizeMultiplier": 4.14377162629758,
   "collapse-forces": false,
   "centerStrength": 0.423875432525952,
-  "repelStrength": 10,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 1.4019828977760982,
+  "scale": 0.5087618855792574,
   "close": false
 }

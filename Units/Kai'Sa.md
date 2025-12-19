@@ -2,9 +2,13 @@
 traits:
   - Void
   - Longshot
-unlock: 3 items on a longshot unit
+unlock: 3 items on a longshot unit + lvl8
+cost: 4
+tags:
+  - AP
+  - AD
 ---
-## Items
+## Items (AP Version)
 
 - [item :: [[Guinsoo]]] 
 - [item :: [[Hextech Gunblade | Gunblade]]] 

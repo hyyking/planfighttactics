@@ -1,10 +1,11 @@
 ---
 traits:
+  - Bruiser
+  - Ionia
 unlock:
-cost:
 tags:
+  - "#Tank"
 ---
-## Item
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]]

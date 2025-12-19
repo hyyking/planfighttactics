@@ -1,14 +1,24 @@
 ---
 tags:
-  - fast8
-  - AD
-  - AP
-traits:
-unlock:
+  - "#reroll6"
+  - "#AP"
+  - "#LooseStreak"
 ---
 ## Comp
 
 ## Tips
+
+## Reroll
+
+Reroll avec [carry :: [[Bard]]]
+
+* Reroll: Pas mauvais meilleur en winstreak
+
+Peut cashout < 500
+
+## Full Open
+
+Seulement si bonnes quêtes pour cashout > 500
 
 ## Unlocks
 ```dataview
