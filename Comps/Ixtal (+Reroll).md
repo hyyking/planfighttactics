@@ -2,6 +2,7 @@
 tags:
   - "#reroll6"
   - "#AP"
+  - "#LooseStreak"
 ---
 
 ## Reroll

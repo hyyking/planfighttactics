@@ -1,7 +1,7 @@
 ---
 tags:
-  - fast8
   - "#AD"
+  - "#fast8"
 ---
 Itemiser [carry::[[T-Rex]]] 
 

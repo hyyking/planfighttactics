@@ -1,8 +1,8 @@
 ---
 tags:
-  - reroll7
   - "#AD"
   - "#Guinsoo"
+  - "#reroll7"
 ---
 
 Itemiser [carry :: [[Jinx]]] 

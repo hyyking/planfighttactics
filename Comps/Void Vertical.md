@@ -1,9 +1,9 @@
 ---
 tags:
-  - fast8
-  - fast10
   - "#AP"
   - "#Guinsoo"
+  - "#fast8"
+  - "#fast10"
 ---
 [carry::[[Kai'Sa]]]
 [carry::[[Rift Herald]]]
@@ -23,5 +23,14 @@ Peut flex un [[Swain]] pour jugg+arcaniste et [[Wukong]] pour bruiser
 TABLE patch as Patch, file.cday as Date
 FROM "Comments"
 WHERE comp = [[Void Vertical]]
-SORT file.cday
+SORT file.cday DESC
 ```
+
+## History
+```dataview
+TABLE encounter, placement, patch, date
+FROM "Games"
+WHERE comp = "Void Vertical"
+SORT file.date DESC
+```
+
