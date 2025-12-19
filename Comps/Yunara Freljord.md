@@ -8,8 +8,7 @@ planner-code: 0233f37003536133634135002a013000TFTSet16
 
 [carry::[[Yunara]]]
 [carry::[[Lissandra]]]
-
-[[Wukong]]
+[tank::[[Wukong]]]
 [[Sejuani]]
 [[Kennen]]
 [[Taric]]

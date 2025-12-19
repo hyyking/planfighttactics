@@ -1,5 +1,5 @@
 - [item::[[Warmogs]]]
-- [item::[[Gargoyle]]]
+- [item::[[Gargoyle's Stoneplate]]]
 - [item::[[Spirit Visage]]]
 - [item::[[Sunfire]]]
 - [item::[[Bramble Vest]]]

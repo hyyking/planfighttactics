@@ -1,15 +1,18 @@
 ---
 traits:
-  - Freljord
-  - Warden
+  - Arcanist
+  - Demacia
 unlock:
 cost: 4
 tags:
-  - Tank
+  - AP
 ---
 ## Item
  
- - [item::[[Tank Items]]]
+ - [[Jewel Gaunlet]]
+ - [[Managen Items]]
+ - [[Void Staff]]
+
 
 ## Artifacts
 

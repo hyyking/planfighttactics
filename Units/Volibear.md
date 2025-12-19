@@ -9,8 +9,11 @@ tags:
 ---
 ## Item
 - [item::[[Bloodthirster]]]
-- 
- 
+- [item :: [[Hand of Justice]]]
+- [item::[[Infinity Edge]]]
+- [item::[[Kraken Slayer]]]
+- [item::[[QSS]]]
+
 
 
 ## Artifacts

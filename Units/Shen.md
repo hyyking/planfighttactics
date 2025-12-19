@@ -1,12 +1,17 @@
 ---
 traits:
-  - Void
+  - Ionia
   - Bruiser
 unlock:
+cost: 1
+tags:
+  - Tank
 ---
-## Items
+## Item
 
 - [item :: [[Tank Items]]]
+ 
+ ## Artifacts
 
 ## Related Comps
 ```dataviewjs

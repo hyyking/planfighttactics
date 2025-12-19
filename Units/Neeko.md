@@ -1,12 +1,18 @@
 ---
 traits:
-  - Void
-  - Bruiser
+  - Ixtal
+  - Arcanist
+  - Defender
 unlock:
+cost: 2
+tags:
 ---
-## Items
-
+Direct upgrade: [flex::[[Sylas]]]
+## Item
+ 
 - [item :: [[Tank Items]]]
+
+## Artifacts
 
 ## Related Comps
 ```dataviewjs

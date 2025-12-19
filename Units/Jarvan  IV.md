@@ -1,12 +1,17 @@
 ---
 traits:
-  - Void
-  - Bruiser
+  - Defender
+  - Demacia
 unlock:
+cost: 1
+tags:
+  - Tank
 ---
-## Items
+## Item
+ 
+ - [[Tank Items]]
 
-- [item :: [[Tank Items]]]
+## Artifacts
 
 ## Related Comps
 ```dataviewjs

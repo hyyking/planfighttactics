@@ -1,20 +1,18 @@
 ---
 traits:
-  - Ionia
-  - Slayer
-unlock: Yasuo 3 fielded
-cost: 4
+  - Void
+unlock: 7 void units fielded and level 10
+cost: 7
 tags:
   - AD
 ---
 ## Item
  
- - [item::[[QSS]]]
- - [item::[[Edge of Night]]]
+ - [item::[[Steraks]]]
+ - [item::[[Infinity Edge]]]
  - [item::[[Bloodthirster]]]
- - [item::[[Titans Resolve]]]
  
- ## Artifacts
+## Artifacts
 
 ## Related Comps
 ```dataviewjs

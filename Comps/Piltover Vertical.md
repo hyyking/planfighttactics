@@ -11,7 +11,7 @@ tags:
 [carry::[[Seraphine]]]
 [[Caitlyn]]
 [[Orianna]]
-[[Loris]]
+[tank::[[Loris]]]
 [[Vi]]
 
 

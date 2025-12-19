@@ -1,15 +1,17 @@
 ---
 traits:
-  - Freljord
-  - Warden
-unlock:
+  - Shadow Isles
+unlock: Collect 75 souls
 cost: 4
 tags:
-  - Tank
+  - AD
 ---
 ## Item
  
- - [item::[[Tank Items]]]
+ - [item::[[Shojin]]]
+ - [item::[[Stikers Flail]]]
+ - [item::[[Last Whisper]]]
+
 
 ## Artifacts
 

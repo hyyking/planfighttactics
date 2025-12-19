@@ -12,12 +12,13 @@ Bonne compo pour un solide top 4
 ## Comp
 [carry::[[Kai'Sa]]]
 [carry::[[Rift Herald]]]
-
+[carry::[[Baron Nashor]]]
 ## Tips
 
 Hard reroll au 8 pour les upgrades
 
-Peut flex un [[Swain]] pour jugg+arcaniste et [[Wukong]] pour bruiser
+Peut flex un [flex::[[Swain]]] pour jugg+arcaniste et [flex::[[Wukong]]] pour bruiser
+
 
 
 ```dataviewjs
