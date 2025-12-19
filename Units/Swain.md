@@ -3,13 +3,12 @@ traits:
   - Juggernaut
   - Arcanist
 unlock:
+cost: 4
 tags:
   - Tank
 ---
  
- 
-
-
+## Items
 ## Artifacts
 
 ## Related Comps

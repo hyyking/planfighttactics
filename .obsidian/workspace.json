@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9d2e793653c54d",
+        "id": "608fe8d82d24c9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "94e35def1f2910bf",
+            "id": "e90948f50fc901b2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -90,8 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Comps.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -100,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Comps"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,10 +176,10 @@
             "id": "f1a68b4bc1a1982e",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -197,48 +198,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c56aba05396d803",
+  "active": "e90948f50fc901b2",
   "lastOpenFiles": [
-    "Units/Gwen.md",
-    "Units/Wukong.md",
-    "Comps/Yordle Veigar.md",
-    "Comps/Void Vertical.md",
-    "Comments/Void 16.1C.md",
-    "Comps/Draven Freljord Fast 9.md",
-    "Comps/Ixtal Brock.md",
-    "Comps/Ixtal Reroll.md",
-    "Comps/Jinx Reroll.md",
-    "Comps/Kalista Warden.md",
-    "Comps/Yunara Freljord.md",
-    "Comps/Yasuo Reroll.md",
+    "Units/Lissandra.md",
     "Comps/Piltover Vertical.md",
-    "Baron Nashor.md",
-    "Item/Nashor's Tooth.md",
-    "Item/Gargoyle's Stoneplate.md",
-    "Item/Giant Slayer.md",
-    "Item/Hextech Gunblade.md",
-    "Item/Hand of Justice.md",
-    "Item/Jewel Gaunlet.md",
-    "Item/Morellonomicon.md",
-    "Item/Adaptive Helm.md",
-    "Item/Bloodthirster.md",
-    "Item/Dragon's Claw.md",
-    "Item/Edge of Night.md",
-    "Item/Infinity Edge.md",
+    "Comps/Void Vertical.md",
+    "Templates/Board.md",
+    "Comps/Yordle Veigar.md",
+    "Comps/Yunara Freljord.md",
+    "Content/Pasted image 20251219115542.png",
+    "Hub.md",
+    "Comps/Test Comp.md",
+    "Units/Veigar.md",
+    "Untitled.base",
+    "Comps/Yasuo Reroll.md",
+    "Excalidraw/Drawing 2025-12-19 15.55.46.excalidraw.md",
+    "Excalidraw",
+    "Units/Ziggs.md",
+    "Comps/Kalista Warden.md",
+    "Units/Kobuko.md",
+    "Units/Thresh.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-12-19 15.37.25.excalidraw.md",
+    "Boards/Yordle Veigar EndGame.canvas",
+    "Excalidraw/Drawing 2025-12-19 15.37.46.excalidraw.md",
+    "Item/Families",
+    "Comps/Jinx Reroll.md",
+    "Comps/Ixtal Reroll.md",
+    "Comps/Ixtal Brock.md",
+    "Comps/Draven Freljord Fast 9.md",
+    "Units/Baron Nashor.md",
+    "Units/Swain.md",
+    "test.md",
+    "Pasted image 20251219152423.png",
+    "Boards",
+    "Test.md",
     "Templates/Views/list_related_comps.js",
-    "Untitled.canvas",
     "Templates/Views/list_history.js",
     "Templates/Views/list_comments.js",
     "Templates/Views/list_unlocks.js",
     "Templates/Views/list_traits.js",
-    "Templates/Views/list_",
-    "Templates/Views",
-    "Templates/New folder",
-    "New folder",
-    "Item/Artifacts",
-    "Content/Pasted image 20251219115542.png"
+    "Templates/Views/list_"
   ]
 }

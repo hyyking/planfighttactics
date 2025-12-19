@@ -6,14 +6,11 @@ tags:
 
 ## Comp
 
-[carry::[[T-Rex]]] 
-[carry::[[Senna]]] 
-[carry::[[Seraphine]]]
-[[Caitlyn]]
-[[Orianna]]
-[tank::[[Loris]]]
-[[Vi]]
-
+|                        | [[Vi]]      | [tank::[[Loris]]]  | [[Ornn]] |     |     |             |
+| ---------------------- | ----------- | ------------------ | -------- | --- | --- | ----------- |
+|                        |             |                    |          |     |     |             |
+| [carry::[[T-Rex]]]     |             |                    |          |     |     |             |
+| [carry::[[Seraphine]]] | [[Caitlyn]] | [carry::[[Senna]]] |          |     |     | [[Orianna]] |
 
 ## Tips
 
@@ -39,4 +36,3 @@ dv.view("Templates/Views/list_comments");
 ```dataviewjs
 dv.view("Templates/Views/list_history");
 ```
-

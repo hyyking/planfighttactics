@@ -5,17 +5,14 @@ tags:
 planner-code: 0232137003536e02536935035d371000TFTSet16
 ---
 Opener reroll, ligne AP avec des augments qui donne des rabadons
+
 ## Comp
 
-[carry::[[Veigar]]]
-[carry::[[Ziggs]]]
-[[Kobuko]]
-[[Wukong]]
-[[Swain]]
-[[Fizz]]
-[[Rumble]]
-[[Shyvana]]
-[[Kennen]]
+| [[Kennen]]<br>        | [[Shyvana]]<br> | [[Kobuko]] | [tank :: [[Wukong]]] | [[Fizz]] | [[Swain]] | [[Rumble]]            |
+| --------------------- | --------------- | ---------- | -------------------- | -------- | --------- | --------------------- |
+|                       |                 |            |                      |          |           |                       |
+|                       |                 |            |                      |          |           |                       |
+|  [carry :: [[Ziggs]]] |                 |            |                      |          |           | [carry :: [[Veigar]]] |
 
 ## Tips
 
@@ -47,4 +44,3 @@ dv.view("Templates/Views/list_comments");
 ```dataviewjs
 dv.view("Templates/Views/list_history");
 ```
-
