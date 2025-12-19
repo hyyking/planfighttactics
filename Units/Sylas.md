@@ -10,7 +10,7 @@ tags:
 Hold [[Jarvan  IV]], [[Lux]], [[Garen]]
 ## Item
  
- - [item::[[Jewel Gaunlet]]]
+ - [item::[[Jewel Gauntlet]]]
  - [item::[[Hand of Justice]]]
  
 ## Artifacts

@@ -1,12 +1,17 @@
 ---
 traits:
   - Void
-  - Bruiser
-unlock: Have void activate for 8 rounds
+  - Juggernaut
+unlock:
+cost: 2
+tags:
+  - Tank
 ---
-## Items
+## Item
+ 
+ - [item :: [[Tank Items]]]
 
-- [item :: [[Tank Items]]]
+## Artifacts
 
 ## Related Comps
 ```dataviewjs

@@ -6,15 +6,11 @@ planner-code: 0233f37003536133634135002a013000TFTSet16
 ---
 ## Comp
 
-[carry::[[Yunara]]]
-[carry::[[Lissandra]]]
-[tank::[[Wukong]]]
-[[Sejuani]]
-[[Kennen]]
-[[Taric]]
-[[Kobuko]]
-[[Ryze]]
-[[Ashe]]
+| [[Kobuko]]          | [[Taric]]              | [[Kennen]] | [[Sejuani]] | [tank::[[Wukong]]] |     |     |
+| ------------------- | ---------------------- | ---------- | ----------- | ------------------ | --- | --- |
+|                     |                        |            |             |                    |     |     |
+|                     |                        |            |             |                    |     |     |
+| [carry::[[Yunara]]] | [carry::[[Lissandra]]] | [[Ashe]]   | [[Ryze]]    |                    |     |     |
 
 ## Tips
 

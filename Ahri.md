@@ -1,17 +1,15 @@
 ---
 traits:
+  - Ionia
   - Arcanist
-  - Demacia
 unlock:
-cost: 4
+cost: 3
 tags:
   - AP
 ---
 ## Item
  
- - [[Jewel Gauntlet]]
- - [[Managen Items]]
- - [[Void Staff]]
+ 
 
 
 ## Artifacts

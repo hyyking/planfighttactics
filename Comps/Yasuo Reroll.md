@@ -6,15 +6,11 @@ planner-code: 0235037002a36236c35135834d000000TFTSet16
 ---
 ## Comp
 
-[carry :: [[Yasuo]]]
-[carry :: [[Yone]]]
-[carry::[[Yunara]]]
-[[Kindred]]
-[tank::[[Wukong]]]
-[[Kennen]]
-[[Shen]]
-[[Sett]]
-
+| [carry :: [[Yasuo]]] | [carry :: [[Yone]]] | [[Shen]] | [tank::[[Wukong]]] | [[Kennen]] |     | [[Sett]] |
+| -------------------- | ------------------- | -------- | ------------------ | ---------- | --- | -------- |
+|                      |                     |          |                    |            |     |          |
+|                      |                     |          |                    |            |     |          |
+| [carry::[[Yunara]]]  | [[Kindred]]         |          |                    |            |     | <br>     |
 ## Tips
 
 Seulement si bc de yasuo high tempo / Ionia vertical winstreak

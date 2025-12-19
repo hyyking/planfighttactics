@@ -1,18 +1,18 @@
 ---
 traits:
-  - Arcanist
-  - Demacia
+  - Void
+  - Slayer
 unlock:
 cost: 4
 tags:
-  - AP
+  - AD
 ---
 ## Item
  
- - [[Jewel Gauntlet]]
- - [[Managen Items]]
- - [[Void Staff]]
-
+ 
+- [item::[[Giant Slayer]]]
+- [item::[[Kraken Slayer]]]
+- [item::[[QSS]]]
 
 ## Artifacts
 

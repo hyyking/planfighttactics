@@ -9,7 +9,7 @@ tags:
 ## Item
  
  - [item::[[Hand of Justice]]]
- - [item::[[Jewel Gaunlet| Spellcrit]]]
+ - [item::[[Jewel Gauntlet| Spellcrit]]]
  
 ## Artifacts
 

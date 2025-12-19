@@ -1,17 +1,16 @@
 ---
 traits:
-  - Arcanist
-  - Demacia
+  - Void
+  - Vanquisher
 unlock:
-cost: 4
+cost: 2
 tags:
-  - AP
+  - AD
 ---
 ## Item
  
- - [[Jewel Gauntlet]]
- - [[Managen Items]]
- - [[Void Staff]]
+ - [item::[[Bloodthirster]]]
+ - [item::[[Steraks]]]
 
 
 ## Artifacts

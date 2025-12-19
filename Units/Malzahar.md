@@ -1,16 +1,19 @@
 ---
 traits:
-  - Shadow Isles
+  - Void
   - Disruptor
-unlock: Collect 20 soul
+unlock:
 cost: 3
 tags:
   - AP
 ---
 ## Item
  
- - [item::[[Hand of Justice]]]
- - [item::[[Jewel Gauntlet]]]
+ 
+- [item::[[Void Staff]]]
+- [item::[[Managen Items]]]
+- [item::[[Morellonomicon]]]
+- [item::[[Jewel Gauntlet]]]
 
 ## Artifacts
 

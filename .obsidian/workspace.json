@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "608fe8d82d24c9bf",
+        "id": "a5488f5182f43394",
         "type": "tabs",
         "children": [
           {
-            "id": "e90948f50fc901b2",
+            "id": "9158ef90810b6675",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"placement\"]",
+                "query": "tag:#fast10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,16 +81,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db5df0324812cc83",
+        "id": "fd867ac2ec4bf96e",
         "type": "tabs",
         "children": [
           {
-            "id": "d05b4e1737dfd844",
+            "id": "3f2bd19e357d7d43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "Comps/Yunara Freljord.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -101,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Yunara Freljord"
             }
           },
           {
-            "id": "71d7bd40c411bd7e",
+            "id": "5caf606565fc9638",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Comps.md",
+                "file": "Comps/Yunara Freljord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Comps"
+              "title": "Outgoing links from Yunara Freljord"
             }
           },
           {
-            "id": "a2613010d688be4b",
+            "id": "0a852c1f51406c99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,7 +133,7 @@
             }
           },
           {
-            "id": "0679e2e46865483b",
+            "id": "80b3c50175b2d289",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -148,22 +147,22 @@
             }
           },
           {
-            "id": "f8d9af16586796a0",
+            "id": "e2fb9aee6e498a03",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comps/Jinx Reroll.md",
+                "file": "Comps/Yunara Freljord.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jinx Reroll"
+              "title": "Outline of Yunara Freljord"
             }
           },
           {
-            "id": "1ce0ce0ea455b3e6",
+            "id": "5d8b7b4c3052fcc0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,23 +170,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f1a68b4bc1a1982e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 828.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,45 +187,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e90948f50fc901b2",
+  "active": "4c56aba05396d803",
   "lastOpenFiles": [
-    "Units/Lissandra.md",
-    "Comps/Piltover Vertical.md",
-    "Comps/Void Vertical.md",
-    "Templates/Board.md",
     "Comps/Yordle Veigar.md",
     "Comps/Yunara Freljord.md",
-    "Content/Pasted image 20251219115542.png",
+    "Ahri.md",
+    "Untitled.canvas",
+    "Ahri.md",
     "Hub.md",
-    "Comps/Test Comp.md",
-    "Units/Veigar.md",
-    "Untitled.base",
-    "Comps/Yasuo Reroll.md",
-    "Excalidraw/Drawing 2025-12-19 15.55.46.excalidraw.md",
-    "Excalidraw",
-    "Units/Ziggs.md",
-    "Comps/Kalista Warden.md",
-    "Units/Kobuko.md",
-    "Units/Thresh.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-12-19 15.37.25.excalidraw.md",
-    "Boards/Yordle Veigar EndGame.canvas",
-    "Excalidraw/Drawing 2025-12-19 15.37.46.excalidraw.md",
-    "Item/Families",
-    "Comps/Jinx Reroll.md",
-    "Comps/Ixtal Reroll.md",
+    "Games/Yordle Veigar + Encouter Ryze.md",
     "Comps/Ixtal Brock.md",
+    "Comps/Ixtal Reroll.md",
+    "Games/Untitled.md",
+    "Comps/Piltover Vertical.md",
+    "Units/Senna.md",
     "Comps/Draven Freljord Fast 9.md",
-    "Units/Baron Nashor.md",
-    "Units/Swain.md",
-    "test.md",
+    "Comps/Jinx Reroll.md",
+    "Comps/Raph fast 8 (pas le level).md",
+    "Comps/Void Vertical.md",
+    "Units/Rift Herald.md",
+    "Comments/Void 16.1C.md",
+    "Comps/Yasuo Reroll.md",
+    "Units/Kog'Maw.md",
+    "Units/Malzahar.md",
+    "Units/Bel'Veth.md",
+    "Units/Rek'Sai.md",
+    "Item/Jewel Gauntlet.md",
+    "Units/Cho'Gath.md",
+    "Units/Lissandra.md",
+    "Templates/Board.md",
+    "Content/Pasted image 20251219115542.png",
+    "Untitled.base",
+    "Excalidraw",
+    "Boards/Yordle Veigar EndGame.canvas",
+    "Item/Families",
     "Pasted image 20251219152423.png",
     "Boards",
-    "Test.md",
     "Templates/Views/list_related_comps.js",
     "Templates/Views/list_history.js",
     "Templates/Views/list_comments.js",

@@ -5,18 +5,14 @@ planner-code:
 ---
 ## Comp
 
-[carry::[[Senna]]]
-[carry::[[Kindred]]]
-[[Ashe]]
-[[Braum]]
-[[Volibear]]
-[[Wukong]]
-[[Ornn]]
+|                    | [tank :: [[Braum]]]  | [tank :: [[Wukong]]] | [[Volibear]] |     |     | [[Ornn]] |
+| ------------------ | -------------------- | -------------------- | ------------ | --- | --- | -------- |
+|                    |                      |                      |              |     |     |          |
+|                    |                      |                      |              |     |     |          |
+| [flex::[[Yunara]]] | [carry::[[Kindred]]] | [carry::[[Senna]]]   | [[Ashe]]     |     |     |          |
 
-
-[flex::[[Kennen]]]
 [flex::[[Sejuani]]]
-[flex::[[Yunara]]]
+[flex::[[Kennen]]]
 ## Tips
 
 Bien si start winstreak draven (mieux si 2) / augment d'éco

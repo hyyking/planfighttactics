@@ -1,18 +1,17 @@
 ---
 traits:
-  - Arcanist
-  - Demacia
+  - Void
+  - Longshot
 unlock:
-cost: 4
+cost: 1
 tags:
   - AP
 ---
 ## Item
  
- - [[Jewel Gauntlet]]
- - [[Managen Items]]
- - [[Void Staff]]
-
+ - [item::[[Managen Items]]]
+ - [item::[[Jewel Gauntlet]]]
+ - [item::[[Guinsoo]]]
 
 ## Artifacts
 
