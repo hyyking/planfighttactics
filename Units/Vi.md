@@ -17,3 +17,7 @@ Bonne unité pour items AD si pas de meilleur porteur
 
 ## Artifacts
 
+## Related Comps
+```dataviewjs
+dv.view("Templates/Views/list_related_comps")
+```

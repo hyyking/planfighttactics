@@ -9,9 +9,25 @@ tags:
 ---
 Bien positionné c'est un bonne unité
 ## Item
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]] 
-- [item :: [[XXX]]]
-
+- [item :: [[Shojin]]] 
+- [item :: [[Infinity Edge]]] 
 ## Artifacts
+
+## Related Comps
+```dataviewjs
+dv.view("Templates/Views/list_related_comps")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 

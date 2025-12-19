@@ -1,5 +1,0 @@
-```dataview
-TABLE file
-```
-
-

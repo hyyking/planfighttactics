@@ -10,3 +10,7 @@ tags:
 - [item :: [[QSS]]]
 - [item :: [[Hand Of Justice | HoJ]]]
 
+## Related Comps
+```dataviewjs
+dv.view("Templates/Views/list_related_comps")
+```

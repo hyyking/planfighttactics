@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "36326de3e1184e76",
+        "id": "3f76a9a6e50dfd93",
         "type": "tabs",
         "children": [
           {
-            "id": "9569a32717194580",
+            "id": "461eaa7bb27f087f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comps/Piltover Vertical.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Piltover Vertical"
-            }
-          },
-          {
-            "id": "69be63c8fb1540f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comps/Jinx Reroll.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jinx Reroll"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,33 +190,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69be63c8fb1540f8",
+  "active": "461eaa7bb27f087f",
   "lastOpenFiles": [
-    "Comps/Kalista Warden.md",
     "Comps/Piltover Vertical.md",
     "Comps/Void Vertical.md",
-    "Comps/Yunara Freljord.md",
-    "16.1/PATCH 16.1.md",
-    "Comps/Ixtal Brock.md",
-    "16.1/GAMES.md",
-    "Comps/Ixtal Reroll.md",
-    "Comps/Jinx Reroll.md",
-    "Comps/Yasuo Reroll.md",
-    "Comps/Yordle Veigar.md",
-    "Templates/CompsContent.md",
-    "Templates/CompQueries.md",
-    "Units/Caitlyn.md",
-    "Units/Orianna.md",
-    "Units/Vi.md",
-    "Units/Loris.md",
-    "Item/Red Buff.md",
-    "Units/Senna.md",
-    "Item/Last Whisper.md",
+    "Units/Wukong.md",
+    "Units/Ziggs.md",
+    "Units/Yunara.md",
     "Units/Yone.md",
-    "Item/Edge of Night.md",
     "Units/Yasuo.md",
-    "Comments/Piltover 16.1C.md",
-    "Templates/Comments.md",
+    "Units/Vi.md",
+    "Units/Veigar.md",
+    "Units/Taric.md",
+    "Units/T-Rex.md",
+    "Units/Swain.md",
+    "Units/Singed.md",
+    "Units/Shyvana.md",
+    "Units/Seraphine.md",
+    "Units/Senna.md",
+    "Units/Sejuani.md",
+    "Units/Ryze.md",
+    "Units/Rumble.md",
+    "Units/Rift Herald.md",
+    "Units/Orianna.md",
+    "Units/Loris.md",
+    "Units/Lissandra.md",
+    "Units/Kobuko.md",
+    "Units/Kennen.md",
+    "Units/Kai'Sa.md",
+    "Templates/Views/list_related_comps.js",
+    "Untitled.canvas",
     "Templates/Views/list_history.js",
     "Templates/Views/list_comments.js",
     "Templates/Views/list_unlocks.js",
@@ -246,10 +228,7 @@
     "Templates/Views",
     "Templates/New folder",
     "New folder",
-    "Units/Kennen.md",
     "Item/Artifacts",
-    "Content/Pasted image 20251219115542.png",
-    "Content",
-    "Untitled.canvas"
+    "Content/Pasted image 20251219115542.png"
   ]
 }

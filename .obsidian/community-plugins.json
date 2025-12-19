@@ -3,5 +3,6 @@
   "pretty-properties",
   "obsidian-linter",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-tagfolder"
 ]
