@@ -3,6 +3,7 @@ traits:
   - Bruiser
   - Ionia
 unlock:
+cost: 4
 tags:
   - "#Tank"
 ---

@@ -8,7 +8,7 @@ tags:
 ---
 ## Item
 - [item :: [[Infinity Edge]]] 
-- [item :: [[Shojin]]] 
+- [item :: [[Item/Shojin]]] 
 - [item :: [[Last Whisper]]]
 - [item :: [[Red Buff]]]
 

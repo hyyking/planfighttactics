@@ -6,21 +6,16 @@ planner-code: 0200f01d02034034c01e35b357021000TFTSet16
 ---
 ## Comp
 
-[carry::[[Kalista]]]
-[carry::[[Thresh]]]
-[tank::[[Braum]]]
-[[Loris]]
-[[Ornn]]
-[[Yorick]]
-[[Gwen]]
-
+|                              | [tank::[[Braum]]] | [carry::[[Thresh]]] | [[Ornn]] | [[Loris]] | [[Yorick]] |     |
+| ---------------------------- | ----------------- | ------------------- | -------- | --------- | ---------- | --- |
+|                              |                   | [[Gwen]]            |          |           |            |     |
+|                              |                   |                     |          |           |            |     |
+| [carry::[[Kalista]]]<br><br> |                   |                     |          |           |            |     |
 
 ## Tips
 
 1. Augment Viego (pas essayé)
 2. Vrmt tempo avec quickstricker
-
-
 ```dataviewjs
 dv.view("Templates/Views/list_traits");
 ```

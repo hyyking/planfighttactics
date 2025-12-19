@@ -9,7 +9,7 @@ tags:
 ---
 Bien positionné c'est un bonne unité
 ## Item
-- [item :: [[Shojin]]] 
+- [item :: [[Item/Shojin]]] 
 - [item :: [[Infinity Edge]]] 
 ## Artifacts
 

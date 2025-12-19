@@ -7,6 +7,7 @@ tags:
   - AP
 ---
 - [item :: [[Managen Items]]] 
+- [item :: [[Rabadon's Deathcap|Rabadon]]]
  
 
 ## Related Comps
