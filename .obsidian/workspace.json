@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comps/Yunara Freljord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yunara Freljord"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comps/Yunara Freljord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yunara Freljord"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comps/Yunara Freljord.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Yunara Freljord"
+              "title": "Outline"
             }
           },
           {
@@ -190,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c56aba05396d803",
+  "active": "5d8b7b4c3052fcc0",
   "lastOpenFiles": [
-    "Comps/Yordle Veigar.md",
     "Comps/Yunara Freljord.md",
+    "Comps/Yordle Veigar.md",
     "Ahri.md",
     "Untitled.canvas",
     "Ahri.md",
