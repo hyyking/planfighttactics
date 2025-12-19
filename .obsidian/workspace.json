@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "049e5cd0307e5716",
+        "id": "36326de3e1184e76",
         "type": "tabs",
         "children": [
           {
-            "id": "3a876412975e2bef",
+            "id": "9569a32717194580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comps/Yordle Veigar.md",
+                "file": "Comps/Piltover Vertical.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Yordle Veigar"
+              "title": "Piltover Vertical"
+            }
+          },
+          {
+            "id": "69be63c8fb1540f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comps/Jinx Reroll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Jinx Reroll"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"placement\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comps/Jinx Reroll.md",
+                "file": "Templates/Comps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jinx Reroll"
+              "title": "Backlinks for Comps"
             }
           },
           {
@@ -114,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comps/Jinx Reroll.md",
+                "file": "Templates/Comps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jinx Reroll"
+              "title": "Outgoing links from Comps"
             }
           },
           {
@@ -181,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,45 +211,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a876412975e2bef",
+  "active": "69be63c8fb1540f8",
   "lastOpenFiles": [
-    "Units/Bard.md",
-    "Units/Kennen.md",
-    "Units/Kobuko.md",
-    "Units/Kai'Sa.md",
-    "Units/Jinx.md",
-    "Units/Draven.md",
-    "Units/Fizz.md",
-    "Templates/Units.md",
-    "Templates/Games.md",
-    "Templates/Comps.md",
-    "Units/Rumble.md",
-    "Units/Seraphine.md",
-    "Units/Shyvana.md",
-    "Units/Singed.md",
-    "Units/Swain.md",
-    "Units/T-Rex.md",
-    "Units/Veigar.md",
-    "Units/Wukong.md",
-    "Units/Yunara.md",
-    "Units/Ziggs.md",
-    "Item/Managen.md",
-    "Units/Rift Herald.md",
-    "Comps/Yordle Veigar.md",
-    "Comps/Shadow Isles.md",
-    "Comps/Piltover T-Rex.md",
+    "Comps/Kalista Warden.md",
+    "Comps/Piltover Vertical.md",
+    "Comps/Void Vertical.md",
+    "Comps/Yunara Freljord.md",
+    "16.1/PATCH 16.1.md",
     "Comps/Ixtal Brock.md",
+    "16.1/GAMES.md",
+    "Comps/Ixtal Reroll.md",
+    "Comps/Jinx Reroll.md",
+    "Comps/Yasuo Reroll.md",
+    "Comps/Yordle Veigar.md",
+    "Templates/CompsContent.md",
+    "Templates/CompQueries.md",
+    "Units/Caitlyn.md",
+    "Units/Orianna.md",
+    "Units/Vi.md",
+    "Units/Loris.md",
+    "Item/Red Buff.md",
+    "Units/Senna.md",
+    "Item/Last Whisper.md",
+    "Units/Yone.md",
+    "Item/Edge of Night.md",
+    "Units/Yasuo.md",
+    "Comments/Piltover 16.1C.md",
+    "Templates/Comments.md",
+    "Templates/Views/list_history.js",
+    "Templates/Views/list_comments.js",
+    "Templates/Views/list_unlocks.js",
+    "Templates/Views/list_traits.js",
+    "Templates/Views/list_",
+    "Templates/Views",
+    "Templates/New folder",
+    "New folder",
+    "Units/Kennen.md",
+    "Item/Artifacts",
     "Content/Pasted image 20251219115542.png",
     "Content",
-    "Untitled.canvas",
-    "Item",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Templates",
-    "Units",
-    "Comments",
-    "Comps",
-    "Patches",
-    "Games"
+    "Untitled.canvas"
   ]
 }

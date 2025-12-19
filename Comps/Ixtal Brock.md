@@ -1,32 +1,30 @@
 ---
 tags:
   - "#fast8"
+planner-code: 0203534234034101a35737336335a000TFTSet16
 ---
 ## Comp
 
 ## Tips
 
+```dataviewjs
+dv.view("Templates/Views/list_traits");
+```
+
 ## Unlocks
-```dataview
-TABLE unlock
-FROM "Units"
-FLATTEN file.inlinks.file.link as l
-WHERE unlock != "" AND l = this.file.link
+
+```dataviewjs
+dv.view("Templates/Views/list_unlocks");
 ```
 
 ## Comments
-```dataview
-TABLE patch as Patch, file.cday as Date
-FROM "Comments"
-WHERE comp = this.file.link
-SORT file.cday DESC
+
+```dataviewjs
+dv.view("Templates/Views/list_comments");
 ```
 
 ## History
-```dataview
-TABLE encounter, placement, patch, date
-FROM "Games"
-WHERE comp = this.file.link
-SORT file.date DESC
+```dataviewjs
+dv.view("Templates/Views/list_history");
 ```
 

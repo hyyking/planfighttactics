@@ -2,32 +2,36 @@
 tags:
   - "#reroll6"
   - "#AD"
+planner-code: 0235037002a36236c35135834d000000TFTSet16
 ---
 ## Comp
 
+[carry :: [[Yasuo]]]
+[carry :: [[Yone]]]
+
+
 ## Tips
 
+Seulement si bc de yasuo high tempo / Ionia vertical winstreak
+
+```dataviewjs
+dv.view("Templates/Views/list_traits");
+```
+
 ## Unlocks
-```dataview
-TABLE unlock
-FROM "Units"
-FLATTEN file.inlinks.file.link as l
-WHERE unlock != "" AND l = this.file.link
+
+```dataviewjs
+dv.view("Templates/Views/list_unlocks");
 ```
 
 ## Comments
-```dataview
-TABLE patch as Patch, file.cday as Date
-FROM "Comments"
-WHERE comp = this.file.link
-SORT file.cday DESC
+
+```dataviewjs
+dv.view("Templates/Views/list_comments");
 ```
 
 ## History
-```dataview
-TABLE encounter, placement, patch, date
-FROM "Games"
-WHERE comp = this.file.link
-SORT file.date DESC
+```dataviewjs
+dv.view("Templates/Views/list_history");
 ```
 

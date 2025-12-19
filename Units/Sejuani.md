@@ -1,12 +1,11 @@
 ---
 traits:
-  - Yordle
   - Defender
-  - Ionia
+  - Freljord
 unlock:
 cost: 3
 tags:
-  - "#Tank"
+  - Tank
 ---
 ## Item
 - [item :: [[XXX]]] 

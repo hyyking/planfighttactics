@@ -1,12 +1,11 @@
 ---
 traits:
-  - Yordle
-  - Defender
   - Ionia
-unlock:
-cost: 3
+  - Slayer
+unlock: Yasuo 3 fielded
+cost: 4
 tags:
-  - "#Tank"
+  - AD
 ---
 ## Item
 - [item :: [[XXX]]] 

@@ -1,24 +1,23 @@
 ---
 tags:
-  - fast8
-  - AD
-  - AP
-planner-code: 0233f37003536133634135002a013000TFTSet16
+  - "#AD"
+  - "#fast8"
 ---
+
 ## Comp
 
-[carry::[[Yunara]]]
-[carry::[[Lissandra]]]
+[carry::[[T-Rex]]] 
+[carry::[[Senna]]] 
+[carry::[[Seraphine]]]
+[[Caitlyn]]
+[[Orianna]]
+[[Loris]]
+[[Vi]]
 
-[[Wukong]]
-[[Sejuani]]
-[[Kennen]]
-[[Taric]]
-[[Kobuko]]
-[[Ryze]]
-[[Ashe]]
 
 ## Tips
+
+Avec upgrades go 7-8 pour seraphine, 6 piltover pour dedoubler le t-rex
 
 ```dataviewjs
 dv.view("Templates/Views/list_traits");

@@ -1,24 +1,3 @@
----
-tags:
-  - fast8
-  - AD
-  - AP
-planner-code: 0233f37003536133634135002a013000TFTSet16
----
-## Comp
-
-[carry::[[Yunara]]]
-[carry::[[Lissandra]]]
-
-[[Wukong]]
-[[Sejuani]]
-[[Kennen]]
-[[Taric]]
-[[Kobuko]]
-[[Ryze]]
-[[Ashe]]
-
-## Tips
 
 ```dataviewjs
 dv.view("Templates/Views/list_traits");

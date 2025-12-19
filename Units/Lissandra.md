@@ -1,15 +1,14 @@
 ---
 traits:
-  - Yordle
-  - Defender
-  - Ionia
+  - Freljord
+  - Invoker
 unlock:
-cost: 3
+cost: 4
 tags:
-  - "#Tank"
+  - AP
 ---
 ## Item
-- [item :: [[XXX]]] 
+- [item :: [[Managen]]] 
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]]
 

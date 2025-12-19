@@ -1,12 +1,11 @@
 ---
 traits:
-  - Yordle
-  - Defender
-  - Ionia
-unlock:
-cost: 3
+  - Piltover
+  - Invoker
+unlock: 3 Piltover units fielded
+cost: 2
 tags:
-  - "#Tank"
+  - AP
 ---
 ## Item
 - [item :: [[XXX]]] 

@@ -1,12 +1,11 @@
 ---
 traits:
-  - Yordle
-  - Defender
-  - Ionia
+  - Piltover
+  - Warden
 unlock:
 cost: 3
 tags:
-  - "#Tank"
+  - Tank
 ---
 ## Item
 - [item :: [[XXX]]] 

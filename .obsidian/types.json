@@ -3,10 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "carry": "multitext",
     "placement": "number",
     "traits": "multitext",
-    "items": "multitext",
     "patch": "multitext",
     "unlock": "text",
     "cost": "number"

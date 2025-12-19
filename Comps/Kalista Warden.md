@@ -1,24 +1,16 @@
 ---
 tags:
-  - fast8
-  - AD
-  - AP
-planner-code: 0233f37003536133634135002a013000TFTSet16
+  - "#AP"
+  - "#fast8"
+planner-code: 0200f01d02034034c01e35b357021000TFTSet16
 ---
 ## Comp
 
-[carry::[[Yunara]]]
-[carry::[[Lissandra]]]
-
-[[Wukong]]
-[[Sejuani]]
-[[Kennen]]
-[[Taric]]
-[[Kobuko]]
-[[Ryze]]
-[[Ashe]]
-
 ## Tips
+
+1. Augment Viego (pas essayé)
+2. Vrmt tempo avec quickstricker
+
 
 ```dataviewjs
 dv.view("Templates/Views/list_traits");
@@ -40,4 +32,5 @@ dv.view("Templates/Views/list_comments");
 ```dataviewjs
 dv.view("Templates/Views/list_history");
 ```
+
 

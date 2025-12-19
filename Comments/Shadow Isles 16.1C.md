@@ -1,6 +1,6 @@
 ---
 patch:
   - 16.1C
-comp: "[[Shadow Isles]]"
+comp: "[[Kalista Warden]]"
 ---
 Il faut absolument tempo pour le jouer / augment viego

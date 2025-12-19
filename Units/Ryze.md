@@ -1,12 +1,9 @@
 ---
 traits:
-  - Yordle
-  - Defender
-  - Ionia
-unlock:
-cost: 3
+unlock: Field for 4 region traits in combat
+cost: 7
 tags:
-  - "#Tank"
+  - AP
 ---
 ## Item
 - [item :: [[XXX]]] 

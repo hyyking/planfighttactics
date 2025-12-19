@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Item",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 175863
       }
     }
   ],
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 255,
   "scale": 0.5087618855792574,
-  "close": false
+  "close": true
 }

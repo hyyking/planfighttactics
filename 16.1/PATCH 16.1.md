@@ -10,4 +10,4 @@ Peut transformer une reroll ashe trynda qui pue, donc prendre trynda tot si poss
 # Ionia
 
 * Quickstricker: excellent
-* Yasuo reroll => seulement si bc de yasuo high tempo
+* Yasuo reroll => 

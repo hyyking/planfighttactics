@@ -2,6 +2,7 @@
 tags:
   - "#AP"
   - "#fast8"
+planner-code: 0232137003536e02536935035d371000TFTSet16
 ---
 Opener reroll, ligne AP avec des augments qui donne des rabadons
 ## Comp
@@ -26,36 +27,24 @@ Attackspeed exellent sur [carry :: [[Ziggs]]]
 - Push 8 a 0 golds pour 8 yordle, farm des items
 - Drop 8 yordle une fois upgrade, kennen 3 star facile avec les dups
 
-```dataview
-TABLE WITHOUT ID traits as Trait, length(rows) as Count
-FROM "Units"
-FLATTEN file.inlinks.file.link as l
-WHERE unlock != "" AND l = this.file.link
-FLATTEN traits
-GROUP BY traits
-SORT length(rows) DESC
+```dataviewjs
+dv.view("Templates/Views/list_traits");
 ```
 
 ## Unlocks
-```dataview
-TABLE unlock
-FROM "Units"
-FLATTEN file.inlinks.file.link as l
-WHERE unlock != "" AND l = this.file.link
+
+```dataviewjs
+dv.view("Templates/Views/list_unlocks");
 ```
+
 ## Comments
-```dataview
-TABLE patch as Patch, file.cday as Date
-FROM "Comments"
-WHERE comp = this.file.link
-SORT file.cday
+
+```dataviewjs
+dv.view("Templates/Views/list_comments");
 ```
+
 ## History
-```dataview
-TABLE encounter, placement, patch, date
-FROM "Games"
-WHERE comp = this.file.link
+```dataviewjs
+dv.view("Templates/Views/list_history");
 ```
-
-
 

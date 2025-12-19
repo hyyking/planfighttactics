@@ -4,16 +4,31 @@ tags:
   - "#Guinsoo"
   - "#reroll7"
 ---
+## Comp
 
-Itemiser [carry :: [[Jinx]]] 
+[carry :: [[Jinx]]] 
+[carry :: [[Singed]]]
+## Tips
 
-Items AP sur [carry :: [[Singed]]]
 
+```dataviewjs
+dv.view("Templates/Views/list_traits");
+```
+
+## Unlocks
+
+```dataviewjs
+dv.view("Templates/Views/list_unlocks");
+```
 
 ## Comments
-```dataview
-TABLE patch as Patch, file.cday as Date
-FROM "Comments"
-WHERE comp = [[Jinx Reroll]]
-SORT file.cday
+
+```dataviewjs
+dv.view("Templates/Views/list_comments");
 ```
+
+## History
+```dataviewjs
+dv.view("Templates/Views/list_history");
+```
+

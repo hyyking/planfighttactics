@@ -1,12 +1,10 @@
 ---
 traits:
-  - Yordle
-  - Defender
-  - Ionia
+  - Targon
 unlock:
-cost: 3
+cost: 4
 tags:
-  - "#Tank"
+  - Tank
 ---
 ## Item
 - [item :: [[XXX]]] 

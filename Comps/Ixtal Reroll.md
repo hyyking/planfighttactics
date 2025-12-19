@@ -3,6 +3,7 @@ tags:
   - "#reroll6"
   - "#AP"
   - "#LooseStreak"
+planner-code: 0202c02b34b01834334201a014000000TFTSet16
 ---
 ## Comp
 
@@ -20,27 +21,25 @@ Peut cashout < 500
 
 Seulement si bonnes quêtes pour cashout > 500
 
+
+```dataviewjs
+dv.view("Templates/Views/list_traits");
+```
+
 ## Unlocks
-```dataview
-TABLE unlock
-FROM "Units"
-FLATTEN file.inlinks.file.link as l
-WHERE unlock != "" AND l = this.file.link
+
+```dataviewjs
+dv.view("Templates/Views/list_unlocks");
 ```
 
 ## Comments
-```dataview
-TABLE patch as Patch, file.cday as Date
-FROM "Comments"
-WHERE comp = this.file.link
-SORT file.cday DESC
+
+```dataviewjs
+dv.view("Templates/Views/list_comments");
 ```
 
 ## History
-```dataview
-TABLE encounter, placement, patch, date
-FROM "Games"
-WHERE comp = this.file.link
-SORT file.date DESC
+```dataviewjs
+dv.view("Templates/Views/list_history");
 ```
 

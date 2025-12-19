@@ -1,13 +1,15 @@
 ---
 traits:
-  - Yordle
+  - Piltover
+  - Zaun
   - Defender
-  - Ionia
 unlock:
-cost: 3
+cost: 2
 tags:
-  - "#Tank"
+  - AD
+  - Tank
 ---
+Bonne unité pour items AD si pas de meilleur porteur
 ## Item
 - [item :: [[XXX]]] 
 - [item :: [[XXX]]] 

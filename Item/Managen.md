@@ -1,4 +1,5 @@
 [item::[[Blue Buff]]]
 [item:: [[Shojin]]]
-[item:: [[Adaptive ]]]
-[item :: [[Nashor | Nashors Tooth]]]
+[item:: [[Adaptive Helm]]]
+[item :: [[Nashors Tooth | Nashors]]]
+
