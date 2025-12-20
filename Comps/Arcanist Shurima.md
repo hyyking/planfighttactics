@@ -10,10 +10,9 @@ planner-code: 0234334b34c02501c35901f356000000TFTSet16
 |            |           |           |        |              |               |           |
 |            |           |           |        |              |               |           |
 | [[Xerath]] | [[Azir]]  |           |        |              | [[Seraphine]] | [[Annie]] |
-[flex :: [[Sylas]]] over Neeko
 
 ## Tips
-
+[flex :: [[Sylas]]] over Neeko
 
 ```dataviewjs
 dv.view("Templates/Views/list_traits");

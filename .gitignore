@@ -1,0 +1,4 @@
+.obsidian
+uv.lock
+.venv
+__pycache__/
