@@ -1,6 +1,6 @@
 ---
 tags:
-  - fast9
+  - "#fast9"
 planner-code: 0234334b34c02501c35901f356000000TFTSet16
 ---
 ## Comp

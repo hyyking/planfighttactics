@@ -1,6 +1,6 @@
 ---
 tags:
-  - reroll6
+  - "#reroll6"
 planner-code: 0232f02533f011331343361000000000TFTSet16
 ---
 ## Comp
