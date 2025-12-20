@@ -1,7 +1,7 @@
 ---
 tags:
   - "#fast8"
-  - losestreak
+  - "#lose-streak"
 planner-code: 0203534234034101a35737336335a000TFTSet16
 ---
 ## Comp

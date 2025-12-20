@@ -1,7 +1,7 @@
 ---
 tags:
   - "#AD"
-  - "#Guinsoo"
+  - ""
   - "#reroll7"
 ---
 ## Comp
