@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Comps  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path: Item ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path: Units",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "path: Comments  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path: Games  ",
+      "color": {
+        "a": 1,
+        "rgb": 16347505
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.4019828977760775,
-  "close": false
+  "nodeSizeMultiplier": 2.48641868512111,
+  "lineSizeMultiplier": 1.82517301038062,
+  "collapse-forces": false,
+  "centerStrength": 0.445501730103806,
+  "repelStrength": 15.9688581314879,
+  "linkStrength": 0.497404844290657,
+  "linkDistance": 500,
+  "scale": 0.2726859917360054,
+  "close": true
 }

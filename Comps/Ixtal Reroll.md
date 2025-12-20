@@ -6,20 +6,21 @@ planner-code: 0202c02b34b01834334201a014000000TFTSet16
 ---
 ## Comp
 
+
+|                     | [[Vi]]                 | [tank :: [[Neeko]]] | [[Skarner]] |     |     |     |
+| ------------------- | ---------------------- | ------------------- | ----------- | --- | --- | --- |
+|                     | [carry :: [[Nidalee]]] |                     |             |     |     |     |
+| [[Qiyana]]          |                        |                     |             |     |     |     |
+| [carry :: [[Bard]]] | [[Milio]]              | [[Orianna]]         |             |     |     |     |
+
+
 ## Tips
 
-## Reroll
-
-Reroll avec [carry :: [[Bard]]]
+Reroll avec [carry :: [[Bard]]] > [carry :: [[Milio]]]
 
 * Reroll: Pas mauvais meilleur en winstreak
 
-Peut cashout < 500
-
-## Full Open
-
-Seulement si bonnes quêtes pour cashout > 500
-
+Peut cashout < 500 si besoin de golds
 
 ```dataviewjs
 dv.view("Templates/Views/list_traits");

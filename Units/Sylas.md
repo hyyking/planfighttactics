@@ -2,7 +2,7 @@
 traits:
   - Arcanist
   - Defender
-unlock: Sell a 2 star Garen + 2 star Lux + 2 start Jarvan
+unlock: Sell a 2 star Garen + 2 star Lux + 2 star Jarvan
 cost: 7
 tags:
   - AP
