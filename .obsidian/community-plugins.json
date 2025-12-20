@@ -1,10 +1,8 @@
 [
   "dataview",
-  "pretty-properties",
-  "obsidian-linter",
   "obsidian-git",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "extended-graph",
-  "graph-link-types"
+  "graph-link-types",
+  "obsidian-linter"
 ]
