@@ -7,7 +7,7 @@ cost: 7
 tags:
   - AP
 ---
-Hold [[Jarvan  IV]], [[Lux]], [[Garen]]
+Hold [[Jarvan IV]], [[Lux]], [[Garen]]
 ## Item
  
  - [item::[[Jewel Gauntlet]]]

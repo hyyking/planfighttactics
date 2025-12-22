@@ -2,6 +2,7 @@
 traits:
   - Noxus
   - Slayer
+  - Juggernaut
 unlock:
 cost: 1
 tags:

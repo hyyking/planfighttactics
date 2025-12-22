@@ -1,7 +1,7 @@
 ---
 patch:
   - 16.1C
-comp: "[[Piltover Vertical]]"
+comp: "[[Comps/Piltover Vertical]]"
 ---
 
 Possible de winstreak avec 4 piltover

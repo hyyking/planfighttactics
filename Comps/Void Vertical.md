@@ -19,9 +19,9 @@ Bonne compo fastoche pour un solide top 4
 
 ## Tips
 
-Void ASAP pour l'herald
-
-Hard reroll au 8 pour les upgrades
+- Void ASAP pour l'herald
+- Hard reroll au 8 pour les upgrades
+- 9 void avec baron (améliore les mutations)
 
 Peut jouer [flex::[[Swain]]] pour jugg+arcaniste et [flex::[[Wukong]]] pour bruiser
 

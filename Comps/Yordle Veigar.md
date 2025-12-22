@@ -8,7 +8,7 @@ Opener reroll, ligne AP avec des augments qui donne des rabadons
 
 ## Comp
 
-| [[Kennen]]<br>        | [[Shyvana]]<br> | [[Kobuko]] | [tank :: [[Wukong]]] | [[Fizz]] | [[Swain]] | [[Rumble]]            |
+| [[Kennen]]<br>        | [[Shyvana]]<br> | [[Kobuko & Yuumi]] | [tank :: [[Wukong]]] | [[Fizz]] | [[Swain]] | [[Rumble]]            |
 | --------------------- | --------------- | ---------- | -------------------- | -------- | --------- | --------------------- |
 |                       |                 |            |                      |          |           |                       |
 |                       |                 |            |                      |          |           |                       |

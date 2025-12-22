@@ -1,7 +1,7 @@
 ---
 patch:
   - 16.1C
-comp: "[[Void Vertical]]"
+comp: "[[Comps/Void Vertical]]"
 ---
 TOP 4 avec kaisa 2 et herald 2
 TOP 1-3 avec Baron

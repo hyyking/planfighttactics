@@ -10,7 +10,7 @@ tags:
 | ---------------------- | ----------- | ------------------ | -------- | --- | --- | ----------- |
 |                        |             |                    |          |     |     |             |
 | [carry::[[T-Rex]]]     |             |                    |          |     |     |             |
-| [carry::[[Seraphine]]] | [[Caitlyn]] | [carry::[[Senna]]] |          |     |     | [[Orianna]] |
+| [carry::[[Seraphine]]] | [[Caitlyn]] | [carry::[[Lucian & Senna]]] |          |     |     | [[Orianna]] |
 
 ## Tips
 

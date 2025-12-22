@@ -9,7 +9,7 @@ tags:
 ## Item
  
  - [item::[[Item/Shojin]]]
- - [item::[[Stikers Flail]]]
+ - [item::[[Strikers Flail]]]
  - [item::[[Last Whisper]]]
 
 

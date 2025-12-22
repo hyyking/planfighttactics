@@ -9,7 +9,7 @@ planner-code:
 | ------------------ | -------------------- | -------------------- | ------------ | --- | --- | -------- |
 |                    |                      |                      |              |     |     |          |
 |                    |                      |                      |              |     |     |          |
-| [flex::[[Yunara]]] | [carry::[[Kindred]]] | [carry::[[Senna]]]   | [[Ashe]]     |     |     |          |
+| [flex::[[Yunara]]] | [carry::[[Kindred]]] | [carry::[[Lucian & Senna]]]   | [[Ashe]]     |     |     |          |
 
 [flex::[[Sejuani]]]
 [flex::[[Kennen]]]
