@@ -3,8 +3,9 @@ difficulty: 4/5
 force: 2/5
 max_cap: 3/5
 name: GP3 SLAYERS
-planner-code: null
-tags: []
+planner-code:
+tags:
+  - "#AD"
 tier: A
 url: https://tactics.tools/s/MH-vy4
 ---

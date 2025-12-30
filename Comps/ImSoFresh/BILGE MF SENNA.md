@@ -3,8 +3,9 @@ difficulty: 5/5
 force: 4/5
 max_cap: 5/5
 name: BILGE MF SENNA
-planner-code: null
-tags: []
+planner-code: 0232232d33635035b03435735d365000TFTSet16
+tags:
+  - "#AD"
 tier: S
 url: https://tactics.tools/s/lvC6N2
 ---

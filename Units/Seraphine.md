@@ -7,7 +7,8 @@ tags:
   - AP
 ---
 - [item :: [[Managen Items]]] 
- 
+- [item :: [[Void Staff]]] 
+- [item :: [[Morellonomicon|Morello]]]
 
 ## Related Comps
 ```dataviewjs
