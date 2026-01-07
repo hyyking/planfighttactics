@@ -9,8 +9,9 @@ tags:
 ## Item
 
 - [item :: [[Steraks]]]
-- [item :: [[QSS]]]
+-  [item :: [[Titans Resolve]]] > [item :: [[QSS]]] 
 - [item :: [[Bloodthirster]]]
+- [item :: [[Guinsoo]]]
 
 ## Artifacts
 
