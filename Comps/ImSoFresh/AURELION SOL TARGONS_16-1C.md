@@ -1,21 +1,17 @@
 ---
-difficulty: 5/5
-force: 1/5
-max_cap: 5/5
-name: VOID NASHOR
+name: AURELION SOL TARGONS
 planner-code: null
 tags: []
-tier: S
-url: https://tactics.tools/s/9ReAZp
+url: https://tactics.tools/s/CNTErQ
 ---
 
 
 ## Comp
-|                             |                  [[Wukong]] |                   [[Swain]] |                             |      [carry :: [[Shyvana]]] |  [carry :: [[Rift Herald]]] |                             |
+|                             |                             |                 [[Skarner]] |                   [[Taric]] |        [carry :: [[Leona]]] |                             |                             |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|                             |                             | [carry :: [[Fiddlesticks]]] |                             |     [carry :: [[Bel'Veth]]] |                             | [carry :: [[Baron Nashor]]] |
+|                             |                             |                             |                             |        [carry :: [[Diana]]] |                             |                             |
 |                             |                             |                             |                             |                             |                             |                             |
-|                 [[Kog'Maw]] |                             |                             |                             |                             |                             |       [carry :: [[Kai'Sa]]] |
+|                [[Aphelios]] |                             |                             |                             |          [carry :: [[Zoe]]] |                             | [carry :: [[Aurelion Sol]]] |
 ## Tips
 
 ```dataviewjs

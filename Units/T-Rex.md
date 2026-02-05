@@ -5,6 +5,7 @@ traits:
 unlock: 12 stars of piltover units
 tags:
   - AD
+cost: 5
 ---
 - [item :: [[Infinity Edge | IE]]] 
 - [item :: [[QSS]]]

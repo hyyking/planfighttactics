@@ -1,11 +1,7 @@
 ---
-difficulty: 3/5
-force: 5/5
-max_cap: 3/5
 name: WW FRELJORDS
 planner-code: null
 tags: []
-tier: C
 url: https://tactics.tools/s/fcwNFF
 ---
 

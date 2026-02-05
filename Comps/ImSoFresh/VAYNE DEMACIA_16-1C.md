@@ -1,21 +1,17 @@
 ---
-difficulty: 4/5
-force: 1/5
-max_cap: 5/5
-name: YORDLES SNOWBALL
+name: VAYNE DEMACIA
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/H8dTpr
+url: https://tactics.tools/s/ZP9xWW
 ---
 
 
 ## Comp
-|                       |             [[Poppy]] |            [[Rumble]] |              [[Fizz]] |    [[Kobuko & Yuumi]] | [carry :: [[Kennen]]] |                       |
+|                       |          [[Xin Zhao]] |             [[Poppy]] |             [[Swain]] |         [[Jarvan IV]] |  [carry :: [[Garen]]] |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 |                       |                       |                       |                       |                       |                       |                       |
-|                       |                       |                       |                       |                       |                       |                       |
-|                       |                       |          [[Tristana]] |                       |              [[Lulu]] |                       |  [carry :: [[Teemo]]] |
+|             [[Galio]] |                       |                       |                       |                       |                       |                       |
+|               [[Lux]] |                       |                       | [carry :: [[Kai'Sa]]] |                       |                       |  [carry :: [[Vayne]]] |
 ## Tips
 
 ```dataviewjs

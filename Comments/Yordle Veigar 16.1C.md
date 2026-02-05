@@ -4,6 +4,7 @@ patch:
 comp: "[[Yordle Veigar]]"
 ---
 TFT Academy B tier, sous evalué si bon spot
+TFT Academy B tier, sous evalué si bon spot
 
 Ca se joue bien, item AS sur ziggs tres fort ++
 

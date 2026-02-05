@@ -1,21 +1,17 @@
 ---
-difficulty: 4/5
-force: 3/5
-max_cap: 5/5
-name: KINDRED NOXUS
+name: IXTAL BROCK FLEX
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/VT5vLd
+url: https://tactics.tools/s/9ghRHd
 ---
 
 
 ## Comp
-|                        | [carry :: [[Skarner]]] |              [[Swain]] |            [[Ambessa]] |            [[Shyvana]] |              [[Taric]] |                        |
+| [carry :: [[Nidalee]]] |              [[Taric]] |              [[Neeko]] |              [[Swain]] |            [[Shyvana]] | [carry :: [[Skarner]]] |                        |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-|                        |                        |       [[Fiddlesticks]] |                        |                        |                        |            [[Atakhan]] |
+|                        |                        |                        |                        |                        |   [carry :: [[Brock]]] |                        |
 |                        |                        |                        |                        |                        |                        |                        |
-| [carry :: [[Kindred]]] |                        |                        |                        |                        |                        |             [[Draven]] |
+|                        |                        |                        |  [carry :: [[Zilean]]] |                        |                        |              [[Milio]] |
 ## Tips
 
 ```dataviewjs

@@ -1,21 +1,17 @@
 ---
-difficulty: 1/5
-force: 1/5
-max_cap: 3/5
-name: VAYNE DEMACIA
+name: 7 IONIA SYLAS
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/ZP9xWW
+url: https://tactics.tools/s/VyIO71
 ---
 
 
 ## Comp
-|                       |          [[Xin Zhao]] |             [[Poppy]] |             [[Swain]] |         [[Jarvan IV]] |  [carry :: [[Garen]]] |                       |
+|                       |              [[Shen]] |          [[Xin Zhao]] |            [[Kennen]] |  [carry :: [[Sylas]]] | [carry :: [[Wukong]]] |   [carry :: [[Sett]]] |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 |                       |                       |                       |                       |                       |                       |                       |
-|             [[Galio]] |                       |                       |                       |                       |                       |                       |
-|               [[Lux]] |                       |                       | [carry :: [[Kai'Sa]]] |                       |                       |  [carry :: [[Vayne]]] |
+|                       |                       |                       |                       |                       |                       |                       |
+|              [[Ahri]] |                       |                       |                       |                       |                       | [carry :: [[Yunara]]] |
 ## Tips
 
 ```dataviewjs

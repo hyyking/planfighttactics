@@ -1,21 +1,17 @@
 ---
-difficulty: 5/5
-force: 1/5
-max_cap: 6/5
-name: IXTAL BROCK FLEX
+name: PEEBA ANNIE SETT
 planner-code: null
 tags: []
-tier: S+
-url: https://tactics.tools/s/9ghRHd
+url: https://tactics.tools/s/iDu4MS
 ---
 
 
 ## Comp
-| [carry :: [[Nidalee]]] |              [[Taric]] |              [[Neeko]] |              [[Swain]] |            [[Shyvana]] | [carry :: [[Skarner]]] |                        |
+|                        |             [[Wukong]] |     [[Kobuko & Yuumi]] |             [[Kennen]] |              [[Sylas]] | [carry :: [[Tibbers]]] |    [carry :: [[Sett]]] |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-|                        |                        |                        |                        |                        |   [carry :: [[Brock]]] |                        |
 |                        |                        |                        |                        |                        |                        |                        |
-|                        |                        |                        |  [carry :: [[Zilean]]] |                        |                        |              [[Milio]] |
+|                        |                        |                        |                        |                        |                        |                        |
+|     [[Lucian & Senna]] |                        |                        |             [[Zilean]] |                        |                        |   [carry :: [[Annie]]] |
 ## Tips
 
 ```dataviewjs

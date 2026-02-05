@@ -1,7 +1,7 @@
 ---
 patch:
   - 16.1C
-comp: "[[BILGE MF SENNA]]"
+comp: "[[BILGE MF SENNA_16-1C]]"
 ---
 Vraiment bien, viser bilge + streak le plus tot possible.
 

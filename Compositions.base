@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.folder.startsWith("Comps")
+formulas:
+  Untitled: |
+    if(note["planner-code"], note["planner-code"], note["url"])
+properties:
+  formula.Untitled:
+    displayName: Link
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - formula.Untitled
+    sort:
+      - property: tags
+        direction: DESC
+      - property: planner-code
+        direction: ASC
+    columnSize:
+      file.name: 327
+      note.tags: 376
+    cardSize: 350

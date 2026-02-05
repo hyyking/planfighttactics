@@ -1,21 +1,17 @@
 ---
-difficulty: 3/5
-force: 1/5
-max_cap: 4/5
-name: 7 IONIA SYLAS
+name: YASUO YONE IONIA
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/VyIO71
+url: https://tactics.tools/s/Ly9LrT
 ---
 
 
 ## Comp
-|                       |              [[Shen]] |          [[Xin Zhao]] |            [[Kennen]] |  [carry :: [[Sylas]]] | [carry :: [[Wukong]]] |   [carry :: [[Sett]]] |
+|              [[Sett]] |                       |              [[Shen]] |            [[Kennen]] |   [carry :: [[Yone]]] | [carry :: [[Wukong]]] |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|                       |                       |                       |                       |                       |  [carry :: [[Yasuo]]] |                       |
 |                       |                       |                       |                       |                       |                       |                       |
-|                       |                       |                       |                       |                       |                       |                       |
-|              [[Ahri]] |                       |                       |                       |                       |                       | [carry :: [[Yunara]]] |
+|                       |                       |                       |           [[Kindred]] |                       |                       | [carry :: [[Yunara]]] |
 ## Tips
 
 ```dataviewjs

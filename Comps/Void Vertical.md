@@ -1,7 +1,6 @@
 ---
 tags:
   - "#AP"
-  - ""
   - "#fast8"
   - "#fast10"
 planner-code: 0235535435335236601b01636a373000TFTSet16

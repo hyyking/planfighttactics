@@ -1,7 +1,6 @@
 ---
 tags:
   - "#AD"
-  - ""
   - "#reroll7"
 ---
 ## Comp

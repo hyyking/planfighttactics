@@ -1,21 +1,17 @@
 ---
-difficulty: 4/5
-force: 5/5
-max_cap: 4/5
-name: YUNARA FRELJORD FLEX
+name: DIANA FLEX SHURIMA
 planner-code: null
 tags: []
-tier: S
-url: https://tactics.tools/s/FHQdwO
+url: https://tactics.tools/s/uyqB2H
 ---
 
 
 ## Comp
-|       [[Kobuko & Yuumi]] |               [[Kennen]] |                          |    [carry :: [[Wukong]]] |                          |                          |                [[Taric]] |
+|         [[Sand Soldier]] |                [[Swain]] |  [carry :: [[Renekton]]] |                   [[Vi]] |     [carry :: [[Diana]]] |     [carry :: [[Taric]]] |                [[Neeko]] |
 |--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
-|                          |                          |              [[Sejuani]] |         [[Frozen Tower]] |                          |                          |                          |
+|         [[Sand Soldier]] |                          |                          |                          |                          |                          |                          |
 |                          |                          |                          |                          |                          |                          |                          |
-|                 [[Ashe]] |                          | [carry :: [[Lissandra]]] |      [carry :: [[Ryze]]] |                          |                          |    [carry :: [[Yunara]]] |
+|                          |                          |                          |                 [[Azir]] |                          |                          | [carry :: [[Seraphine]]] |
 ## Tips
 
 ```dataviewjs

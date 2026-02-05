@@ -16,7 +16,7 @@ Augment silver
 
 pair [[Draven]] + pair [[Sejuani]] -> streak cassée par une [[Rek'Sai]]
 
-Probablement du jouer [[Comps/Ashe Trynda|Ashe Trynda]]
+Probablement du jouer [[Ashe Trynda|Ashe Trynda]]
 ## Mid Game
 Augment silver
 

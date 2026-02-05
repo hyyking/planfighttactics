@@ -1,21 +1,17 @@
 ---
-difficulty: 3/5
-force: 1/5
-max_cap: 3/5
-name: KALISTA THRESH WARDENS
+name: KINDRED NOXUS
 planner-code: null
 tags: []
-tier: C
-url: https://tactics.tools/s/8KLZen
+url: https://tactics.tools/s/VT5vLd
 ---
 
 
 ## Comp
-|       [[Sand Soldier]] |   [carry :: [[Braum]]] |  [carry :: [[Thresh]]] |              [[Loris]] |             [[Yorick]] |               [[Ornn]] |       [[Sand Soldier]] |
+|                        | [carry :: [[Skarner]]] |              [[Swain]] |            [[Ambessa]] |            [[Shyvana]] |              [[Taric]] |                        |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-|                        |                        |       [[Fiddlesticks]] |                        |                        |                        |                        |
+|                        |                        |       [[Fiddlesticks]] |                        |                        |                        |            [[Atakhan]] |
 |                        |                        |                        |                        |                        |                        |                        |
-| [carry :: [[Kalista]]] |                        |                        |    [carry :: [[Azir]]] |                        |                        |          [[Seraphine]] |
+| [carry :: [[Kindred]]] |                        |                        |                        |                        |                        |             [[Draven]] |
 ## Tips
 
 ```dataviewjs

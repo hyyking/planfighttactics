@@ -1,11 +1,7 @@
 ---
-difficulty: 5/5
-force: 2/5
-max_cap: 4/5
 name: ARCANISTS
 planner-code: null
 tags: []
-tier: A
 url: https://tactics.tools/s/Ev7YIP
 ---
 

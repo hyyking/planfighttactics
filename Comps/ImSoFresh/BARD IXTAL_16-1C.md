@@ -1,11 +1,7 @@
 ---
-difficulty: 4/5
-force: 5/5
-max_cap: 5/5
 name: BARD IXTAL
 planner-code: null
 tags: []
-tier: A
 url: https://tactics.tools/s/Ub90SS
 ---
 

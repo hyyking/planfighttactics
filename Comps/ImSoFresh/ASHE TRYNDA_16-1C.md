@@ -1,11 +1,7 @@
 ---
-difficulty: 1/5
-force: 5/5
-max_cap: 4/5
 name: ASHE TRYNDA
 planner-code: null
 tags: []
-tier: S
 url: https://tactics.tools/s/3TZqm7
 ---
 

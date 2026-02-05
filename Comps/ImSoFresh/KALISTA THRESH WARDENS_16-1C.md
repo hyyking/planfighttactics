@@ -1,21 +1,17 @@
 ---
-difficulty: 5/5
-force: 4/5
-max_cap: 4/5
-name: PEEBA ANNIE SETT
+name: KALISTA THRESH WARDENS
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/iDu4MS
+url: https://tactics.tools/s/8KLZen
 ---
 
 
 ## Comp
-|                        |             [[Wukong]] |     [[Kobuko & Yuumi]] |             [[Kennen]] |              [[Sylas]] | [carry :: [[Tibbers]]] |    [carry :: [[Sett]]] |
+|       [[Sand Soldier]] |   [carry :: [[Braum]]] |  [carry :: [[Thresh]]] |              [[Loris]] |             [[Yorick]] |               [[Ornn]] |       [[Sand Soldier]] |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+|                        |                        |       [[Fiddlesticks]] |                        |                        |                        |                        |
 |                        |                        |                        |                        |                        |                        |                        |
-|                        |                        |                        |                        |                        |                        |                        |
-|     [[Lucian & Senna]] |                        |                        |             [[Zilean]] |                        |                        |   [carry :: [[Annie]]] |
+| [carry :: [[Kalista]]] |                        |                        |    [carry :: [[Azir]]] |                        |                        |          [[Seraphine]] |
 ## Tips
 
 ```dataviewjs

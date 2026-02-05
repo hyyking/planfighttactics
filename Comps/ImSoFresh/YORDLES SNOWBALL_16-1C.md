@@ -1,21 +1,17 @@
 ---
-difficulty: 2/5
-force: 2/5
-max_cap: 4/5
-name: YASUO YONE IONIA
+name: YORDLES SNOWBALL
 planner-code: null
 tags: []
-tier: A
-url: https://tactics.tools/s/Ly9LrT
+url: https://tactics.tools/s/H8dTpr
 ---
 
 
 ## Comp
-|              [[Sett]] |                       |              [[Shen]] |            [[Kennen]] |   [carry :: [[Yone]]] | [carry :: [[Wukong]]] |                       |
+|                       |             [[Poppy]] |            [[Rumble]] |              [[Fizz]] |    [[Kobuko & Yuumi]] | [carry :: [[Kennen]]] |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|                       |                       |                       |                       |                       |  [carry :: [[Yasuo]]] |                       |
 |                       |                       |                       |                       |                       |                       |                       |
-|                       |                       |                       |           [[Kindred]] |                       |                       | [carry :: [[Yunara]]] |
+|                       |                       |                       |                       |                       |                       |                       |
+|                       |                       |          [[Tristana]] |                       |              [[Lulu]] |                       |  [carry :: [[Teemo]]] |
 ## Tips
 
 ```dataviewjs
